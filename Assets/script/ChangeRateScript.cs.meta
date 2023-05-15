@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5fc50d8972309cd4ea0c61492169b6e1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - camera: {instanceID: 0}
+  - change_material_albedo_: {fileID: 2800000, guid: 0fdd00eeaa461574c9353b239e638fc8,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
